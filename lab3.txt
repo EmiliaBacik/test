@@ -1,0 +1,26 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+class book
+{
+   int id;
+   string author;
+   string title;
+}
+
+class author
+{
+   string first name;
+   string last name;
+   int age;
+   string country;
+}
+
+int main()
+{
+
+
+
+return 0;
+}
